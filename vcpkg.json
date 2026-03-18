@@ -1,0 +1,11 @@
+{
+  "name": "shoot-game",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "assimp",
+    "glfw3",
+    "glad",
+    "glm",
+    "stb"
+  ]
+}
